@@ -1,4 +1,4 @@
-const Arithmetic={
+const ArithmeticArray={
   Vector:class{
     constructor(x,y,z){
       this.x = x;
